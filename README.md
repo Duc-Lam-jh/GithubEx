@@ -11,3 +11,7 @@ We will have to stash our changes on our current branch, then go to the bugged b
 1. git stash save -u "comebacklater"
 2. git checkout feature
 3. git pull
+
+## Answer 3
+--If the merge and the latest commit has already been pushed
+--If the merge and the latest commit has not been pushed
