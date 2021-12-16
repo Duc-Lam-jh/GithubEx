@@ -13,5 +13,5 @@ We will have to stash our changes on our current branch, then go to the bugged b
 3. git pull
 
 ## Answer 3
-__If the merge and the latest commit has already been pushed
-__If the merge and the latest commit has not been pushed
+__If the merge and the latest commit has already been pushed__
+__If the merge and the latest commit has not been pushed__
