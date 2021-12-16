@@ -14,4 +14,7 @@ We will have to stash our changes on our current branch, then go to the bugged b
 
 ## Answer 3
 __If the merge and the latest commit has already been pushed__
+I suggest using the Github desktop application to revert the merge commit.
+
 __If the merge and the latest commit has not been pushed__
+Using the command git revert <commitId before the merge>
