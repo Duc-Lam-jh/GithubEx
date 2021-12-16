@@ -18,6 +18,6 @@ __If the merge and the latest commit has already been pushed__
 1. git revert -m 
 
 __If the merge and the latest commit has not been pushed__
-- Using the command git revert <commitId before the merge>
+- Using the command git revert commitId 
 1. git log
-2. git revert <commitId>
+2. git revert commitId
